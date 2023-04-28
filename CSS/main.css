@@ -1,0 +1,35 @@
+html{
+    scroll-behavior: smooth;
+}
+.subtitle{
+    font-weight: bold;
+    color:antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 1.25em; /*20px/16=2, Sem, 16px/16= len*/
+}
+.programming-languages i{
+    font-size: 7em;
+}
+.glow-on-hover{
+    width: 100px;
+    height: 25px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+.main-wrapper{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: #E75480;
+    font-family: 'Courier New', Courier, monospace;
+}
